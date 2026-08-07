@@ -1,0 +1,20 @@
+# Existing dependencies
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.7.5
+scikit-learn==1.6.1
+seaborn==0.12.2
+protobuf==3.20.3
+
+# Backend dependencies
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic
+joblib
+email-validator
