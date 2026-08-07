@@ -68,3 +68,5 @@ uvicorn app.main:app --reload
 
 - **API Documentation**: Interactive documentation is available at `http://127.0.0.1:8000/docs` (Swagger UI) or `/redoc`.
 - **CORS Setup**: By default, CORS is enabled for `http://127.0.0.1:5500` and `http://localhost:5500` (VS Code Live Server). Make sure your frontend is running on this port.
+
+- Member 1: Samiran Mondal
